@@ -1,15 +1,3 @@
-<span class="badge">
-  <a href="https://github.com/tingwei628">
-    <img width="30px" height="30px" src="https://tingwei628.github.io/portfolio/assets/images/github.svg"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/sbvq6p199xe">
-    <img width="30px" height="30px" src="https://tingwei628.github.io/portfolio/assets/images/twitter.svg"/>      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ting-wei-chen-90265279/">
-    <img width="30px" height="30px" src="https://tingwei628.github.io/portfolio/assets/images/linkedin.svg"/>
-  </a>
-</span>
-
-
 ### Side Projects
 
 - [rollup-plugin-hotreload](https://www.npmjs.com/package/rollup-plugin-hotreload) : Hot Reload plugin for Rollup.js on NPM
