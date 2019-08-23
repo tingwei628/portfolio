@@ -1,4 +1,9 @@
 
+<a href="https://github.com/tingwei628"><img width="30px" height="30px" src="https://tingwei628.github.io/portfolio/assets/images/github.svg"></a>
+
+<a href="https://twitter.com/sbvq6p199xe"><img width="30px" height="30px" src="https://tingwei628.github.io/portfolio/assets/images/twitter.svg"></a>
+
+<a href="https://www.linkedin.com/in/ting-wei-chen-90265279/"><img width="30px" height="30px" src="https://tingwei628.github.io/portfolio/assets/images/linkedin.svg"></a>
 
 ### Side Projects
 
