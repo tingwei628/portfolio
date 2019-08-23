@@ -2,11 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/tingwei628/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Side Projects
 
-- [rollup-plugin-hotreload](https://github.com/tingwei628/rollup-plugin-hotreload) : Hot Reload plugin for Rollup.js
+- [rollup-plugin-hotreload](https://github.com/tingwei628/rollup-plugin-hotreload) : Hot Reload plugin for Rollup.js on NPM
 
 - [Timer](https://tingwei628.github.io/react-component/src/Timer/build/) : Built with React.js
 
