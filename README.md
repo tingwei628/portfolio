@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+
+### Resume
+- [Ting-Wei Chen's Resume](https://www.linkedin.com/in/ting-wei-chen-90265279/detail/treasury/summary/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAABClv5IBVk3HJP5jaJvOYOPG8p34YCrKdwE%2C1566455479926)&section=summary&treasuryCount=2&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTSBk0c5fRLm%2FNN4Oekv7xg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)
+
+### Blog
+
+- [Dev.to](https://dev.to/tingwei628)
 
 
 ### Side Projects
