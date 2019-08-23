@@ -1,4 +1,4 @@
-##  ------
+##
 ### Side Projects
 
 - [rollup-plugin-hotreload](https://www.npmjs.com/package/rollup-plugin-hotreload) : Hot Reload plugin for Rollup.js on NPM
