@@ -4,34 +4,20 @@ You can use the [editor on GitHub](https://github.com/tingwei628/portfolio/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Side Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [rollup-plugin-hotreload](https://github.com/tingwei628/rollup-plugin-hotreload) : Hot Reload plugin for Rollup.js
 
-```markdown
-Syntax highlighted code block
+- [Timer](https://tingwei628.github.io/react-component/src/Timer/build/) : Built with React.js
 
-# Header 1
-## Header 2
-### Header 3
+- [A simple BASIC interpreter in C](https://github.com/tingwei628/C_study/blob/master/Coursera_NTU_C_HW/HW/hw6.c) : Online course "Computer Programming by Prof. Pangfeng Liu" on Coursera 2014/11
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Open source contribution
 
-**Bold** and _Italic_ and `Code` text
+- [cdnjs](https://github.com/cdnjs/cdnjs/pull/11981) : Add Modaal w/ npm auto-update #11981
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Skills
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tingwei628/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+C#/JavaScript/SQL/ASP.NET MVC 4
