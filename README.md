@@ -1,7 +1,5 @@
 ### Side Projects
 
-- [rollup-plugin-hotreload](https://www.npmjs.com/package/rollup-plugin-hotreload) : Hot Reload plugin for Rollup.js on NPM
-
 - [bfcs](https://github.com/tingwei628/bfcs) : Brainfuck compiler/interpreter in C#
 
 - [Timer](https://tingwei628.github.io/react-component/src/Timer/build/) : Built with React.js
