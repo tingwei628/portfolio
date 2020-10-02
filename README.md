@@ -9,6 +9,7 @@
 
 ### Open Source Contribution
 
+- [workflow-core](https://github.com/danielgerlag/workflow-core/pull/630) : add .Decide example into /docs #630
 - [cdnjs](https://github.com/cdnjs/cdnjs/pull/11981) : Add Modaal w/ npm auto-update #11981
 
 
