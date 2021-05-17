@@ -10,7 +10,7 @@
 
 
 ### Open Source Contribution
-
+- [xk6-sql](https://github.com/imiric/xk6-sql/pull/2) : add MSSQL driver #2
 - [workflow-core](https://github.com/danielgerlag/workflow-core/pull/630) : add .Decide example into /docs #630
 - [cdnjs](https://github.com/cdnjs/cdnjs/pull/11981) : Add Modaal w/ npm auto-update #11981
 
