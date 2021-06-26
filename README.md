@@ -1,4 +1,5 @@
 ### Side Projects
+- [pytg](https://github.com/tingwei628/pytg) : terminal based game in python
 
 - [bfcs](https://github.com/tingwei628/bfcs) : Brainfuck compiler/interpreter in C#
 
