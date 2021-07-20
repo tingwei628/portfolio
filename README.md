@@ -7,8 +7,6 @@
 
 - [Timer](https://tingwei628.github.io/react-component/src/Timer/build/) : Built with React.js
 
-- [A simple BASIC interpreter in C](https://github.com/tingwei628/C_study/blob/master/Coursera_NTU_C_HW/HW/hw6.c) : Online course "Computer Programming by Prof. Pangfeng Liu" on Coursera 2014/11
-
 
 ### Open Source Contribution
 
