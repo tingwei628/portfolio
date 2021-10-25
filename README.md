@@ -1,4 +1,6 @@
 ### Side Projects
+- [COOL Compiler for AArch64](https://github.com/tingwei628/cool-compiler-1/blob/tingwei628-aarch64/doc/aarch64.md) : AArch64 codegen for COOL Compiler
+
 - [pytg](https://github.com/tingwei628/pytg) : terminal based game in python
 
 - [bfcs](https://github.com/tingwei628/bfcs) : Brainfuck compiler/interpreter in C#
