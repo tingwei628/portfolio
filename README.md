@@ -28,6 +28,4 @@ JavaScript
 - [Dev.to](https://dev.to/tingwei628)
 
 
-### Skills
 
-C#/JavaScript/SQL/ASP.NET MVC 4
