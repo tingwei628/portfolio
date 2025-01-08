@@ -1,6 +1,8 @@
 ### Side Projects
 - [barukanOS](https://github.com/tingwei628/barukanOS) : x86-64 hobby operating system
-  
+
+- [Unofficial_ECPayAIO_Net](https://github.com/0xc0dec0ffeelab/Unofficial_ECPayAIO_Net) : Unofficial ECPayAIO_Net support .NET 8 
+
 - [COOL Compiler for AArch64](https://github.com/tingwei628/cool-compiler-1/blob/tingwei628-aarch64/doc/aarch64.md) : AArch64 codegen for COOL compiler
 
 - [pytg](https://github.com/tingwei628/pytg) : terminal based game in python
